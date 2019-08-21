@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kita2108_Q2", "Kita2108_Q2\Kita2108_Q2.csproj", "{B5426557-E4BF-4B7F-A0B2-AFD89CCF9EBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppSafeInvoke", "WpfAppSafeInvoke\WpfAppSafeInvoke.csproj", "{9940347F-A159-4DDB-BCFF-F21CB601A9ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppDispatcherTimer", "WpfAppDispatcherTimer\WpfAppDispatcherTimer.csproj", "{F4B1F3AB-5277-4788-A5C7-C1B9C624D70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5426557-E4BF-4B7F-A0B2-AFD89CCF9EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5426557-E4BF-4B7F-A0B2-AFD89CCF9EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5426557-E4BF-4B7F-A0B2-AFD89CCF9EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5426557-E4BF-4B7F-A0B2-AFD89CCF9EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9940347F-A159-4DDB-BCFF-F21CB601A9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9940347F-A159-4DDB-BCFF-F21CB601A9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9940347F-A159-4DDB-BCFF-F21CB601A9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9940347F-A159-4DDB-BCFF-F21CB601A9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B1F3AB-5277-4788-A5C7-C1B9C624D70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B1F3AB-5277-4788-A5C7-C1B9C624D70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B1F3AB-5277-4788-A5C7-C1B9C624D70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B1F3AB-5277-4788-A5C7-C1B9C624D70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {056B2FDF-A524-4E42-92F8-0AD87132D64E}
+	EndGlobalSection
+EndGlobal
